@@ -1,0 +1,10 @@
+sname=input("Enter the name:")
+sage=input("Enter the age:")
+susn=input("Enter the usn:")
+saddress=input("Enter the address:")
+print("Student Details")
+print(f"Name:{sname}")
+print(f"Age:{sage}")
+print(f"USN:{susn}")
+print(f"Address:{saddress}")
+
